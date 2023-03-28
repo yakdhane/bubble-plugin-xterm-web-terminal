@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "xterm": "^4.7.0",
+    "xterm-addon-fit": "^0.7.1",
+    "xterm-addon-search": "^0.7.1",
+    "xterm-addon-web-links": "^0.7.1",
+    "xterm-addon-unicode11": "^0.7.1",
+    "xterm-addon-webgl": "^0.7.1",
+    "xterm-addon-serialize": "^0.7.1",
+    "xterm-addon-attach": "^0.7.1",
+    "xterm-addon-clipboard": "^0.7.1",
+    "xterm-addon-fullscreen": "^0.7.1",
+    "xterm-addon-hover": "^0.7.1",
+    "xterm-addon-unicode-active": "^0.7.1",
+    "xterm-addon-terminal": "^0.7.1",
+    "xterm-addon-viewport": "^0.7.1"
+  }
+}
